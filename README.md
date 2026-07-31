@@ -202,7 +202,7 @@ La suite de tests couvre chaque module indépendamment (prétraitement, ASR, sen
 
 ---
 
-## Évaluation quantitative (bonus)
+## Évaluation quantitative
 
 Un script d'évaluation (`docs/evaluate.py`) mesure :
 - **WER** (Word Error Rate) pour l'ASR, en comparant les transcriptions du modèle à des transcriptions de référence rédigées manuellement.
@@ -250,4 +250,4 @@ Le dossier `audio_samples/` contient 3 fichiers audio de test, un par classe de 
 
 ## Auteur
 
-Hamady — LOSEC, Université Assane Seck de Ziguinchor / DIT Master 2 IA
+Hamady Ngansou SABALY DIT Master 2 IA
